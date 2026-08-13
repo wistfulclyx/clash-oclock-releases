@@ -1,0 +1,7 @@
+{
+  "versionCode": 40,
+  "versionName": "0.7.0",
+  "apkUrl": "https://github.com/wistfulclyx/clash-oclock-releases/releases/latest/download/ClashOClock.apk",
+  "sha256": "AA4E2C2F608BC69AC56F19B200FF0B0A23A9410B4005B4C0B431779B7A850723",
+  "notes": "First tester self-updating release. Adds secure GitHub-based update notifications and verified in-app APK downloads, an interactive per-village widget with builder availability and next completion, available/total builder counts in village profiles, and larger centered import success messages."
+}
