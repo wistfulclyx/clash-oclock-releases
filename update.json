@@ -1,7 +1,1 @@
-{
-  "versionCode": 41,
-  "versionName": "0.7.1",
-  "apkUrl": "https://github.com/wistfulclyx/clash-oclock-releases/releases/latest/download/ClashOClock.apk",
-  "sha256": "829E937F636ACE4EB476D312F9B2176F461EDE14C2C2585D1BD3C565EEEB36E3",
-  "notes": "Adds a fifth About destination with update status, manual checks, last-check time, an update badge, and the automatic 12-hour schedule. Also removes the blank strip above the footer across all tabs."
-}
+{"versionCode":42,"versionName":"0.7.2","apkUrl":"https://github.com/wistfulclyx/clash-oclock-releases/releases/latest/download/ClashOClock.apk","sha256":"8E88F957778F40878431491B0D43E07B78AF3E1E686F86E8F7F0519C4E56883E","notes":"Prominent Bubble and notification controls; Messenger-style floating Bubble behavior; opt-in CoC-open detection; accurate per-Helper cooldowns and recurrent assignments; Laboratory-first readiness; and overdue-first Troop/Spell research recommendations."}
