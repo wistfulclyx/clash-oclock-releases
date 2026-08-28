@@ -1,7 +1,7 @@
 {
-  "versionCode": 59,
-  "versionName": "0.8.15",
+  "versionCode": 60,
+  "versionName": "0.8.16",
   "apkUrl": "https://github.com/wistfulclyx/clash-oclock-releases/releases/latest/download/ClashOClock.apk",
-  "sha256": "f2d8f49201740ee370188eaf5612e20ecac0ef1bb38bead88ad06ce30733cc13",
-  "notes": "Clear village-limit popup with cancel or manage-villages actions; account names and gold crown styling; local villages remain unchanged. Subscribe is disabled. Phone sign-in and UI checks remain pending."
+  "sha256": "110d4fa6147bb250eb000051a6165a571e6152a220930346e8177ca767aee23c",
+  "notes": "Fixes READY badge contrast in dark mode and uses the supplied go-to icon on Ready village cards. Includes updated account crown artwork. Local villages are unchanged."
 }
