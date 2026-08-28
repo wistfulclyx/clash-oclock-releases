@@ -1,7 +1,7 @@
 {
-  "versionCode": 58,
-  "versionName": "0.8.14",
+  "versionCode": 59,
+  "versionName": "0.8.15",
   "apkUrl": "https://github.com/wistfulclyx/clash-oclock-releases/releases/latest/download/ClashOClock.apk",
-  "sha256": "2924077dbfad1646a38a6060f7673fd2e736b89b66a7d25ca42bc276392a6558",
-  "notes": "Dark mode and phone-theme integration; Settings; local JSON backup/restore; shared per-installation village limits; Google account integration. Google consent/device sign-in testing remains pending. Subscribe is disabled."
+  "sha256": "f2d8f49201740ee370188eaf5612e20ecac0ef1bb38bead88ad06ce30733cc13",
+  "notes": "Clear village-limit popup with cancel or manage-villages actions; account names and gold crown styling; local villages remain unchanged. Subscribe is disabled. Phone sign-in and UI checks remain pending."
 }
