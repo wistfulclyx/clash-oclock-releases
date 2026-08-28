@@ -1,1 +1,7 @@
-{"versionCode":55,"versionName":"0.8.11","apkUrl":"https://github.com/wistfulclyx/clash-oclock-releases/releases/latest/download/ClashOClock.apk","sha256":"0952C94FA246375ACDD9F5BE67A5A0EEA39C492856B962EE45788CC50A952A26","notes":"Adds confirmed dashboard village deletion with the supplied edit, delete, and back icons; clearer Return to dashboard navigation; downward flick-to-dismiss Bubble motion; and deeper full-display landscape edge docking."}
+{
+  "versionCode": 58,
+  "versionName": "0.8.14",
+  "apkUrl": "https://github.com/wistfulclyx/clash-oclock-releases/releases/latest/download/ClashOClock.apk",
+  "sha256": "2924077dbfad1646a38a6060f7673fd2e736b89b66a7d25ca42bc276392a6558",
+  "notes": "Dark mode and phone-theme integration; Settings; local JSON backup/restore; shared per-installation village limits; Google account integration. Google consent/device sign-in testing remains pending. Subscribe is disabled."
+}
